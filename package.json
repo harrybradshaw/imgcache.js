@@ -1,6 +1,6 @@
 {
-  "name": "@chrisben/imgcache.js",
-  "version": "2.1.1",
+  "name": "@harrybradshaw/imgcache.js",
+  "version": "2.1.2",
   "description": "JS library based on the File API to cache images for offline recovery (target: cordova/phonegap & chrome)",
   "main": "lib/imgcache.js",
   "directories": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/chrisben/imgcache.js.git"
+    "url": "git://github.com/harrybradshaw/imgcache.js.git"
   },
   "engines": {
     "node": ">=9.10.0"
